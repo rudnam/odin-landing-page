@@ -1,2 +1,5 @@
 # odin-landing-page
-The Odin Project: Landing Page
+#### Link: https://rudnam.github.io/odin-landing-page/
+## Description
+Project from TOP creating a landing page.
+- Usage of flexboxes
